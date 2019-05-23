@@ -18,5 +18,5 @@ public class ApplyParam implements Serializable{
 	private String refDeptName;
 	private String refDoctorName;
 	private String BillingDate;
-	private String orderStatus;
+	private Integer orderStatus;
 }
